@@ -1,5 +1,7 @@
 # Cool Ranch Doritos
 
+![](http://www.tacobell.com/static_files/TacoBell/StaticAssets/images/menuItems/pdp/pdp_cool_ranch_dltB.png)
+
 A crunchy taco made with premium seasoned beef, crisp lettuce, and real cheddar cheese, in a shell made from Cool Ranch® Doritos® Chips.
 
 
